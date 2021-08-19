@@ -1,5 +1,11 @@
 # astro
 
+## 0.19.1
+
+### Patch Changes
+
+- ece0953a: Fix CSS :global() selector bug
+
 ## 0.19.0
 
 ### Minor Changes
